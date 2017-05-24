@@ -1,5 +1,6 @@
 # Importing the dataset
 dataset = read.csv('Data.csv')
+# dataset = dataset[, 2:3]
 
 # Splitting the datast into the Training set and Test set
 # Uncmmant the line below, if you havent installed caTools
